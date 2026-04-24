@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-04-24T12:20:13.470236",
+  "conversations": [
+    {
+      "id": 1,
+      "name": "User Preference Tracking",
+      "type": "preference",
+      "relevance_mem": 4.8,
+      "relevance_no": 4.4,
+      "ctx_util": 0.5333333333333333,
+      "hit_rate": 1.0,
+      "token_eff_mem": 1.2234826999432784
+    },
+    {
+      "id": 2,
+      "name": "Multi-Session Continuity",
+      "type": "long_term",
+      "relevance_mem": 4.5,
+      "relevance_no": 4.75,
+      "ctx_util": 0.20833333333333331,
+      "hit_rate": 1.0,
+      "token_eff_mem": 0.6598451327433629
+    },
+    {
+      "id": 3,
+      "name": "Experience Recall \u2014 Cross-Turn Reference",
+      "type": "episodic",
+      "relevance_mem": 5.0,
+      "relevance_no": 4.4,
+      "ctx_util": 0.26666666666666666,
+      "hit_rate": 1.0,
+      "token_eff_mem": 1.1372255489021956
+    },
+    {
+      "id": 4,
+      "name": "Semantic Similarity Recall",
+      "type": "semantic",
+      "relevance_mem": 4.75,
+      "relevance_no": 4.75,
+      "ctx_util": 0.4583333333333333,
+      "hit_rate": 1.0,
+      "token_eff_mem": 1.1900479616306954
+    },
+    {
+      "id": 5,
+      "name": "Preference Override",
+      "type": "preference",
+      "relevance_mem": 1.75,
+      "relevance_no": 4.5,
+      "ctx_util": 0.375,
+      "hit_rate": 0.5,
+      "token_eff_mem": 0.4183168316831683
+    },
+    {
+      "id": 6,
+      "name": "Factual Knowledge Retention",
+      "type": "factual",
+      "relevance_mem": 3.75,
+      "relevance_no": 3.75,
+      "ctx_util": 0.3333333333333333,
+      "hit_rate": 1.0,
+      "token_eff_mem": 0.6749455337690632
+    },
+    {
+      "id": 7,
+      "name": "Long Conversation \u2014 Context Trim Resilience",
+      "type": "context_trim",
+      "relevance_mem": 4.2631578947368425,
+      "relevance_no": 2.8421052631578947,
+      "ctx_util": 0.27192982456140347,
+      "hit_rate": 0.0,
+      "token_eff_mem": 0.3461007591442374
+    },
+    {
+      "id": 8,
+      "name": "Temporal Reasoning",
+      "type": "episodic",
+      "relevance_mem": 3.2,
+      "relevance_no": 4.4,
+      "ctx_util": 0.3333333333333333,
+      "hit_rate": 0.5,
+      "token_eff_mem": 0.24070597070972588
+    },
+    {
+      "id": 9,
+      "name": "Allergy Conflict Update (Mandatory Test)",
+      "type": "conflict",
+      "relevance_mem": 4.5,
+      "relevance_no": 3.8333333333333335,
+      "ctx_util": 0.25,
+      "hit_rate": 1.0,
+      "token_eff_mem": 0.4148675171736997
+    },
+    {
+      "id": 10,
+      "name": "Multi-Topic Context Switching",
+      "type": "context",
+      "relevance_mem": 4.4,
+      "relevance_no": 4.8,
+      "ctx_util": 0.36666666666666664,
+      "hit_rate": 1.0,
+      "token_eff_mem": 1.2118786857624262
+    }
+  ]
+}

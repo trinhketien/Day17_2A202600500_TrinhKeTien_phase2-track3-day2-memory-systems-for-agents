@@ -6,14 +6,10 @@ __pycache__/
 dist/
 build/
 
-# Environment
+# Environment (chứa API key — không được commit)
 .env
 venv/
 .venv/
-
-# Data (auto-generated)
-data/
-reports/
 
 # IDE
 .vscode/
@@ -24,5 +20,5 @@ reports/
 .DS_Store
 Thumbs.db
 
-# Submission (cloned repo)
+# Thư mục submission (repo nộp bài, tránh đệ quy)
 submission/
