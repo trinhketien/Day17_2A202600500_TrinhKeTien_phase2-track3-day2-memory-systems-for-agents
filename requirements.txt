@@ -1,0 +1,20 @@
+# Lab 17 — Memory Systems for Agents
+# Core LangChain
+langchain==0.3.14
+langchain-openai==0.2.14
+langchain-community==0.3.14
+
+# LLM & Embeddings
+openai>=1.50.0
+
+# Memory Backends
+redis>=5.0.0
+chromadb>=1.0.0
+
+# Token counting
+tiktoken>=0.7.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+rich>=13.0.0
