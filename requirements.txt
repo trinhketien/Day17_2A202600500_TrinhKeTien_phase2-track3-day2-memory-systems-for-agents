@@ -3,6 +3,7 @@
 langchain==0.3.14
 langchain-openai==0.2.14
 langchain-community==0.3.14
+langgraph>=1.0.0
 
 # LLM & Embeddings
 openai>=1.50.0
